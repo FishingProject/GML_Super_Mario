@@ -2,7 +2,7 @@
     "id": "a2990560-c1db-409a-bbac-22a95a92dd23",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wall",
+    "name": "obj_prizebrick",
     "eventList": [
         
     ],

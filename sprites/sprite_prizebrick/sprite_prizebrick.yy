@@ -2,7 +2,7 @@
     "id": "f9dea7bd-619c-4816-b4dc-e80dc31dc8b0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite_5",
+    "name": "sprite_prizebrick",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -185,7 +185,7 @@
             "visible": true
         }
     ],
-    "origin": 0,
+    "origin": 6,
     "playbackSpeed": 10,
     "playbackSpeedType": 0,
     "sepmasks": false,
@@ -195,5 +195,5 @@
     "type": 0,
     "width": 16,
     "xorig": 0,
-    "yorig": 0
+    "yorig": 15
 }
