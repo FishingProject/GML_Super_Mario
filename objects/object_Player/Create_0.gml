@@ -1,10 +1,13 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 5367CB1D
-/// @DnDArgument : "code" "var normal_speed = 3;$(13_10)var max_speed = 6;"
+/// @DnDArgument : "code" "grav = 0.2;$(13_10)hsp = 0;$(13_10)vsp = 0;$(13_10)jumpspeed = 5;$(13_10)movespeed = 3;"
 
 {
-	var normal_speed = 3;
-var max_speed = 6;
+	grav = 0.2;
+hsp = 0;
+vsp = 0;
+jumpspeed = 5;
+movespeed = 3;
 }
 
