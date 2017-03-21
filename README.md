@@ -2,3 +2,4 @@
 Game Maker Studio Super Mario Test
 
 cwj5012 push test.
+wyx push test
