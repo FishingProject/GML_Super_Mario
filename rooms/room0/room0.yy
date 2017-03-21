@@ -51,7 +51,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_2BB4E8F3",
                     "x": 128,
-                    "y": 224,
+                    "y": 288,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -62,7 +62,7 @@
                     "name_with_no_file_rename": "inst_2BB4E8F3",
                     "objId": "23e3afc1-4689-447b-850a-78a51764bc85",
                     "rotation": 0,
-                    "scaleX": 1,
+                    "scaleX": -1,
                     "scaleY": 1
                 }
             ]
