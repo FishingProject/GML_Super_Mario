@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "165033e6-ff02-42c6-9beb-a64cadc79a5f",
+            "Value": {
+                "id": "80090d27-64fb-495e-b481-fb9068380dd6",
+                "resourcePath": "sprites\\sprite_coin\\sprite_coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1a40aead-b720-4c04-b82e-b534e0275274",
             "Value": {
                 "id": "36bb687c-4934-4147-9c62-d927036569db",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "7d0964fb-36bf-4a1a-9cd9-3e4a41912eef",
+            "Value": {
+                "id": "076c9269-6bab-48ea-a8ed-814709ded320",
+                "resourcePath": "objects\\object_4\\object_4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e8ea7ad-1e14-43b4-a1f3-744207889818",
             "Value": {
                 "id": "6018a705-e0ab-4f09-8ef3-269a86010569",
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "aff2c1a4-4ea1-41f1-8869-390edf5334b1",
+            "Value": {
+                "id": "10521efd-a509-429c-aa5d-18b600aa0c00",
+                "resourcePath": "sprites\\sprite_PrizeBrick\\sprite_PrizeBrick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b07a4b05-d03d-4734-b46e-b493d41f10c6",
             "Value": {
                 "id": "f764e8fd-e389-4b2e-9f52-c19441e1494a",
@@ -252,6 +276,14 @@
                 "id": "4ec52ae6-53cb-4387-9758-a6c09b98773b",
                 "resourcePath": "views\\c8a472f3-731f-4504-92de-efa4b4a61452.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb1460a7-9263-4053-ae99-dd5d73e5ae79",
+            "Value": {
+                "id": "08517811-6b96-40db-bdd4-7077a3e1edef",
+                "resourcePath": "objects\\object_PrizeBrick\\object_PrizeBrick.yy",
+                "resourceType": "GMObject"
             }
         },
         {
