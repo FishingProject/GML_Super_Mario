@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_prizebrick",
     "eventList": [
-        
+        {
+            "id": "fa90b11c-9cfc-4330-8b31-b132a61d30d4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a2990560-c1db-409a-bbac-22a95a92dd23"
+        },
+        {
+            "id": "9f9dda56-b2db-402a-b047-262e08342ac7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a2990560-c1db-409a-bbac-22a95a92dd23"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
