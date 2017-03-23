@@ -2,7 +2,7 @@
     "id": "8b2d2d18-4d10-4434-a923-0271a8d1a3da",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_6",
+    "name": "object_koopa",
     "eventList": [
         {
             "id": "d7b0be81-2540-49b5-934b-018d130a0ab9",
@@ -18,7 +18,7 @@
             "id": "8ff77dd7-6107-455b-8c00-0925f38d1c73",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,

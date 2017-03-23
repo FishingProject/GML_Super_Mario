@@ -2,7 +2,7 @@
     "id": "1eec5151-4634-4d26-bd02-0aa1dbfff694",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "koopa1_walk",
+    "name": "sprite_koopa1_walk",
     "For3D": false,
     "HTile": false,
     "VTile": false,

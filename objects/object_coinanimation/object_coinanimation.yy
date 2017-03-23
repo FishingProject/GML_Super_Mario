@@ -2,7 +2,7 @@
     "id": "40eac39c-fa95-43a0-a7ce-e0d1069b5381",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_8",
+    "name": "object_coinanimation",
     "eventList": [
         
     ],

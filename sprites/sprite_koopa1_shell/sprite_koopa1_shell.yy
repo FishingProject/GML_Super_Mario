@@ -2,7 +2,7 @@
     "id": "463c18e2-196c-4b08-a880-d5c09778a05d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "koopa1_shell",
+    "name": "sprite_koopa1_shell",
     "For3D": false,
     "HTile": false,
     "VTile": false,
