@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "045177b9-8397-41bd-b1b5-f37dc8e6ecd5",
+            "Value": {
+                "id": "5ee4347a-09ed-4bc7-a787-764b9e145676",
+                "resourcePath": "sounds\\sound_death\\sound_death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0f8e7b80-5bff-412b-b289-4d1264a3377d",
             "Value": {
                 "id": "c42b0805-13f3-44e9-b36a-c0dd88ec850b",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "3dbb80b5-d808-4333-acc7-3d58db92cc02",
+            "Value": {
+                "id": "4596d9b8-b1a7-460a-88ef-b707b293b782",
+                "resourcePath": "views\\3dbb80b5-d808-4333-acc7-3d58db92cc02.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "40a82c86-1b96-4364-9fea-4ec43f94022f",
             "Value": {
                 "id": "43297d56-98c8-49b2-9690-ebaaa2798cdb",
@@ -140,6 +156,14 @@
                 "id": "080e4de8-46c7-463e-b0d9-b7386a529315",
                 "resourcePath": "tilesets\\tileset_1\\tileset_1.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "54c25022-b91b-4686-bf19-7d5a6cda3fe5",
+            "Value": {
+                "id": "ac1ea15e-4772-4e14-80b7-de662b826410",
+                "resourcePath": "sounds\\sound_BGM\\sound_BGM.yy",
+                "resourceType": "GMSound"
             }
         },
         {
