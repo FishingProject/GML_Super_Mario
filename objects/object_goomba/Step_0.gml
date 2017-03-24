@@ -9,6 +9,12 @@ if (state_goomba == 0) {
 			state_goomba = 1;
 			
 		}
+		
+		if (abs(x - obj_Player.x >=5))
+		{
+			obj_Player.death = 1;
+			
+		}
 	}
 }
 

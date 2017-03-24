@@ -13,6 +13,12 @@
 				state_m = 1;
 				path_end();
 			}
+			
+			if (abs(x - obj_Player.x >=5))
+			{
+				obj_Player.death = 1;
+			
+			}			
 		}
 	}
 

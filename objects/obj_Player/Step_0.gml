@@ -25,6 +25,7 @@ if (death == 0){
 	}
 	
 	if (move !=0){
+		sprite_index = sprite_playerrun;
 		if (key_accel == 1){
 			hsp += move*accel_speed;							//acceleration
 		}
@@ -40,6 +41,7 @@ if (death == 0){
 		}
 	} 
 	else {														//stop friction
+		sprite_index = sprite_playeridle;
 		if(abs(hsp) > 0){
 			if(hsp > 0){
 				hsp += stop_friction;
@@ -183,7 +185,7 @@ if (death == 0){
 	}
 }
 else {	
-	sprite_index = koopa1_shell;
+	sprite_index = sprite_koopa1_shell;
 	if (death_sound_played == 0){
 		audio_stop_sound(sound_BGM);
 		audio_play_sound(sound_death, 200, false);
